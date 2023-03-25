@@ -69,4 +69,7 @@ public class MySinglyLinkedList {
         }
         return -1;
     }
+    void addFirst(int id){
+        //Todo implementation
+    }
 }
